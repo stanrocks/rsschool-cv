@@ -6,11 +6,19 @@
 * [github.com/stanrocks](https://github.com/stanrocks)
 * [linkedin.com/in/stanrocks](https://www.linkedin.com/in/stanrocks/)
 
-Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+## About Me
+
+I am a software developer with strong analytical mindset and commercial experience in web development, specializing in JavaScript, TypeScript, React, and related technologies. My current role involves only 20% web development, my goal is to transition into a full-time frontend or full-stack development position.
+
+I joined RS School in January 2025, when it was too late to participate in Stage 1, but I studied independently using the school's materials. I am currently participating in Stage 3 (React).
+
+I am highly motivated, adaptable, and committed to problem-solving. If selected for the RS EPAM Short Track, I am prepared to dedicate 10–12 hours per day, including weekends if necessary, to accelerate my learning. My goal is to secure a Junior position at EPAM, grow into a Middle developer and beyond, contribute effectively to impactful projects. I understand that the Short Track does not lead directly to a Middle position, and my expectations are realistic.
+
+I am very thankful for the opportunity ❤️
 
 ## Skills 
 
-* Frontend Development: JavaScript, TypeScript, React.js, Next.js, Redux Toolkit, Node.js, HTML, CSS, SASS, Tailwind, Git, Github, Chrome DevTools, Figma
+* Web Development: JavaScript, TypeScript, React.js, Next.js, Redux Toolkit, Node.js, HTML, CSS, SASS, Tailwind, Git, Github, Chrome DevTools, Figma
 * System Administration
 * PLC / SCADA Programming
 
@@ -41,7 +49,7 @@ Educational projects (from recent to older) with the skills used and links to th
 
 * Problem Solving, Research, Teamwork, Self-sufficiency: [PR to rolling-scopes-school:master (approved and merged)](https://github.com/rolling-scopes-school/tasks/pull/1748)
 * Git, GitHub, Markdown: [RS School "CV Project" task](https://github.com/stanrocks/rsschool-cv)
-* React, TypeScript: [RS School "RS School react app" task](https://github.com/stanrocks/rs-react-app) - might be private because of School rules, but I can secretly share.
+* React, TypeScript: [RS School "RS School react app" task](https://github.com/stanrocks/rs-react-app) - repo might be private because of School rules, but I can secretly share.
 * JavaScript: [RS School "Human Readable Number" task](https://github.com/stanrocks/human-readable-number/blob/master/src/index.js) - all 1000 tests are green
 * JavaScript: [RS School "Core JS numbers" task](https://github.com/stanrocks/core-js-numbers/blob/main/src/numbers-tasks.js) - all 56 tests (including optimal implementations) are green
 * TypeScript: ["Mastering TypeScript" course by Colt Steele](https://github.com/stanrocks/typescript_learning)
