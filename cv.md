@@ -1,3 +1,5 @@
+![photo](photo.jpg)
+
 # Stanislav Chachin
 
 ## Contacts:
@@ -81,6 +83,8 @@ Commercial Experience:
 Rolling Scopes School, The Rolling Scopes, Theo - t3, freecodecamp, Fireship, Beyond Fireship, JavaScript Mastery, Web Dev Simplified, CodeAesthetic, Computerphile, Zach Gollwitzer, Kevin Powell, Yandex for Frontend, Chrome for Developers, JSConf, JetBrains, Andersen People Live
 
 ## Language
+
+![English test by EPAM shows C1](english.png)
 
 * English: C1
 
