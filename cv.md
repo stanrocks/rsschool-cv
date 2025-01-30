@@ -50,7 +50,7 @@ function getSumOfDigits(num) {
 Educational projects (from recent to older) with the skills used and links to the source code:
 
 * Problem Solving, Research, Teamwork, Self-sufficiency: [PR to rolling-scopes-school:master (approved and merged)](https://github.com/rolling-scopes-school/tasks/pull/1748)
-* Git, GitHub, Markdown: [RS School "CV Project" task](https://github.com/stanrocks/rsschool-cv)
+* Git, GitHub, Markdown: [RS School "CV Project" task](https://github.com/stanrocks/rsschool-cv) (This CV. CV itself is functional, but task is unfinished).
 * React, TypeScript: [RS School "RS School react app" task](https://github.com/stanrocks/rs-react-app) - repo might be private because of School rules, but I can secretly share.
 * JavaScript: [RS School "Human Readable Number" task](https://github.com/stanrocks/human-readable-number/blob/master/src/index.js) - all 1000 tests are green
 * JavaScript: [RS School "Core JS numbers" task](https://github.com/stanrocks/core-js-numbers/blob/main/src/numbers-tasks.js) - all 56 tests (including optimal implementations) are green
