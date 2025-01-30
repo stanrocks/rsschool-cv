@@ -10,7 +10,7 @@ Brief Self-Introduction (your goals and priorities, emphasize your strengths, de
 ## Skills 
 (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
 
-* Frontend Development: JavaScript, TypeScript, React.js, Next.js, Redux Toolkit, Node.js, HTML, CSS, Git, Github
+* Frontend Development: JavaScript, TypeScript, React.js, Next.js, Redux Toolkit, Node.js, HTML, CSS, SASS, Tailwind, Git, Github, Chrome DevTools, Figma
 * System Administration
 * PLC / SCADA Programming
 
@@ -34,25 +34,39 @@ function getSumOfDigits(num) {
 }
 ```
 
-## Work Experience 
-(Junior Devs can list educational projects with the skills used and links to the source code)
+## Work Experience
+
+Educational projects (from recent to older) with the skills used and links to the source code:
+
+* Problem Solving, Teamwork, Self-sufficiency: [PR to rolling-scopes-school:master (approved and merged)](https://github.com/rolling-scopes-school/tasks/pull/1748)
+* Git, GitHub, Markdown: [RS School "CV Project" task](https://github.com/stanrocks/rsschool-cv)
+* React, TypeScript: [RS School "RS School react app" task](https://github.com/stanrocks/rs-react-app) - might be private because of School rules, but I can secretly share.
+* JavaScript: [RS School "Human Readable Number" task](https://github.com/stanrocks/human-readable-number/blob/master/src/index.js) - all 1000 tests are green
+* JavaScript: [RS School "Core JS numbers" task](https://github.com/stanrocks/core-js-numbers/blob/main/src/numbers-tasks.js) - all 56 tests (including optimal implementations) are green
+* TypeScript: ["Mastering TypeScript" course by Colt Steele](https://github.com/stanrocks/typescript_learning)
+* TypeScript, Next, Tailwind CSS, Sanity CMS, Firebase: [Portfolio Site (unfinished)](https://github.com/stanrocks/next.js-portfolio)
+* React, Redux: ["Modern React with Redux" course by Stephen Grider](https://github.com/stanrocks/Modern-React-with-Redux)
+* React, Next: ["The Modern React Bootcamp" course by Colt Steele](https://github.com/stanrocks/Modern-React-Bootcamp)
+* JavaScript, Node: ["The Modern Javascript Bootcamp Course" by Colt Steele and Stephen Grider](https://github.com/stanrocks/JS_bootcamp)
+* HTML, CSS, JavaScript: ["The Web Developer Bootcamp" course by Colt Steele](https://github.com/stanrocks/WebDevBootcamp_ColtSteele)
+
+Commercial Experience:
 
 * 2020 – 2025, Software Developer: web development (SPAs), full-stack (Next.js, Express.js) and these days mostly frontend tasks, using HTML (Semantic, Accessible), CSS (Adaptive, Mobile-first, Tailwind), JavaScript, TypeScript, React.js (Redux Toolkit, REST APIs), Git, some testing. PLC / SCADA Programming, System Administration. “Center of Complex Automation” LLC.
 * 2015 – 2020, Web development, PLC / SCADA Programming. “Engineering technologies” LLC.
 * 2012 – 2020, Web development freelance. Sites on Tilda, WordPress, Wix, Squarespace. HTML, CSS, JS, PHP.
 * 2008 – 2014, System Administration, Customer Service IT Support, Help Desk / Service Desk. “AVS Group” Holding, “Alliance” LLC, “Uralmash” JSC.
 
-
 ## Education:
 
 2008, Ural State Technical University – Computing Machines, Complexes, Systems and Networks
 
-### Courses: 
-* Stephen Grider (Modern React with Redux,Typescript: The Complete Developer's Guide, Advanced React and Redux)
+### Courses:
+* Stephen Grider (Modern React with Redux, Typescript: The Complete Developer's Guide, Advanced React and Redux)
 * Colt Steele (Web Developer Bootcamp, Advanced Web Developer Bootcamp, HTML & CSS Bootcamp, Modern JS Bootcamp, Mastering Typescript, Modern React Bootcamp)
 * HTML Academy
 
-### YouTube: 
+### YouTube:
   Rolling Scopes School, The Rolling Scopes, Theo - t3, freecodecamp, Fireship, Beyond Fireship, JavaScript Mastery, Web Dev Simplified, CodeAesthetic, Computerphile, Zach Gollwitzer, Kevin Powell, Yandex for Frontend, Chrome for Developers, JSConf, JetBrains, Andersen People Live
 
 ## Language
