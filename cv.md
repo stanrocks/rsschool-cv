@@ -15,6 +15,24 @@ Brief Self-Introduction (your goals and priorities, emphasize your strengths, de
 * PLC / SCADA Programming
 
 ## Code Examples
+```
+/**
+ * Returns the sum of the digits of a given number.
+ *
+ * @param {number} num
+ * @return {number}
+ *
+ * @example:
+ *   123 => 6  // (1+2+3)
+ *   202 => 4  // (2+0+2)
+ *   5   => 5  // 5
+ */
+function getSumOfDigits(num) {
+  const digitsArr = num.toString().split('').map(Number);
+  const sum = digitsArr.reduce((acc, digit) => acc + digit, 0);
+  return sum;
+}
+```
 
 ## Work Experience 
 (Junior Devs can list educational projects with the skills used and links to the source code)
