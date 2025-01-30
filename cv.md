@@ -1,4 +1,4 @@
-![photo](photo.jpg)
+![Stanislav Chachin's photo](photo.jpg)
 
 # Stanislav Chachin
 
@@ -85,6 +85,7 @@ Rolling Scopes School, The Rolling Scopes, Theo - t3, freecodecamp, Fireship, Be
 ## Language
 
 ![English test by EPAM shows C1](english.png)
+EPAM Campus English assessment results.
 
 * English: C1
 
