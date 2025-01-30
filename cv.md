@@ -3,6 +3,7 @@
 ## Contacts:
 * https://t.me/stanrocks
 * https://github.com/stanrocks
+* https://www.linkedin.com/in/stanrocks/
 
 Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 
