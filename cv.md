@@ -1,6 +1,7 @@
 # Stanislav Chachin
 
 ## Contacts:
+
 * [t.me/stanrocks](https://t.me/stanrocks)
 * [github.com/stanrocks](https://github.com/stanrocks)
 * [linkedin.com/in/stanrocks](https://www.linkedin.com/in/stanrocks/)
@@ -8,13 +9,13 @@
 Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 
 ## Skills 
-(programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
 
 * Frontend Development: JavaScript, TypeScript, React.js, Next.js, Redux Toolkit, Node.js, HTML, CSS, SASS, Tailwind, Git, Github, Chrome DevTools, Figma
 * System Administration
 * PLC / SCADA Programming
 
 ## Code Examples
+
 ```
 /**
  * Returns the sum of the digits of a given number.
@@ -38,7 +39,7 @@ function getSumOfDigits(num) {
 
 Educational projects (from recent to older) with the skills used and links to the source code:
 
-* Problem Solving, Teamwork, Self-sufficiency: [PR to rolling-scopes-school:master (approved and merged)](https://github.com/rolling-scopes-school/tasks/pull/1748)
+* Problem Solving, Research, Teamwork, Self-sufficiency: [PR to rolling-scopes-school:master (approved and merged)](https://github.com/rolling-scopes-school/tasks/pull/1748)
 * Git, GitHub, Markdown: [RS School "CV Project" task](https://github.com/stanrocks/rsschool-cv)
 * React, TypeScript: [RS School "RS School react app" task](https://github.com/stanrocks/rs-react-app) - might be private because of School rules, but I can secretly share.
 * JavaScript: [RS School "Human Readable Number" task](https://github.com/stanrocks/human-readable-number/blob/master/src/index.js) - all 1000 tests are green
@@ -62,12 +63,14 @@ Commercial Experience:
 2008, Ural State Technical University – Computing Machines, Complexes, Systems and Networks
 
 ### Courses:
+
 * Stephen Grider (Modern React with Redux, Typescript: The Complete Developer's Guide, Advanced React and Redux)
 * Colt Steele (Web Developer Bootcamp, Advanced Web Developer Bootcamp, HTML & CSS Bootcamp, Modern JS Bootcamp, Mastering Typescript, Modern React Bootcamp)
 * HTML Academy
 
 ### YouTube:
-  Rolling Scopes School, The Rolling Scopes, Theo - t3, freecodecamp, Fireship, Beyond Fireship, JavaScript Mastery, Web Dev Simplified, CodeAesthetic, Computerphile, Zach Gollwitzer, Kevin Powell, Yandex for Frontend, Chrome for Developers, JSConf, JetBrains, Andersen People Live
+
+Rolling Scopes School, The Rolling Scopes, Theo - t3, freecodecamp, Fireship, Beyond Fireship, JavaScript Mastery, Web Dev Simplified, CodeAesthetic, Computerphile, Zach Gollwitzer, Kevin Powell, Yandex for Frontend, Chrome for Developers, JSConf, JetBrains, Andersen People Live
 
 ## Language
 
